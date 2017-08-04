@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+# basic options
+title: Blog
+author: CodeLiftYoga
+email: codeliftyoga@gmail.com
+description: A wonderful site
+twitter_username: jekyllrb
+github_username:  codeliftyoga
+
+# Build settings
+markdown: kramdown
+theme: minima
